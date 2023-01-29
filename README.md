@@ -2,13 +2,14 @@
 Here I am sharing all the notes of the most perfect Coursera course created by the combination of medicine and artificial intelligence :)
 
 
-Course 1: AI For Medical Diagnosis - Learning Objectives : 
+# Course 1: AI For Medical Diagnosis - Learning Objectives : 
 Data pre-processing: checking for data leakage
 Preprocess images properly for the train, validation and test sets
 Implement a weighted loss function to address class imbalance.
 Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
-Week 1:
+## Week 1:
+
 Introduction: A conversation with Andrew Ng
 
 Diagnosis examples
@@ -30,7 +31,7 @@ Transfer learning and data augmentation
 Model testing
 
 
-Week 2:
+## Week 2:
 
 Introduction: A conversation with Andrew Ng
 
@@ -53,7 +54,7 @@ Width of confidence intervals and sample size
 Using a sample to estimate the population
 
 
-Week 3:
+## Week 3:
 
 Introduction: A conversation with Andrew Ng
 
@@ -85,10 +86,10 @@ Model influence on medical decision-making
 
 
 
-Course 2: AI For Medical Prognosis
+# Course 2: AI For Medical Prognosis
 
 
-Week 1:
+## Week 1:
 
 Introduction: A conversation with Andrew Ng
 
@@ -115,7 +116,7 @@ Permissible pairs
 C-index interpretation
 
 
-Week 2:
+## Week 2:
 
 Decision trees for prognosis
 
@@ -144,7 +145,7 @@ Mean imputation
 Regression imputation
 
 
-Week 3:
+## Week 3:
 
 Survival function
 
@@ -169,7 +170,7 @@ Comparing estimates
 Kaplan Meier Estimate
 
 
-Week 4:
+## Week 4:
 
 Hazard functions
 
@@ -200,9 +201,9 @@ Permissible pair examples
 Harrell’s concordance index
 
 
-Course 3: AI For Medical Treatment
+# Course 3: AI For Medical Treatment
 
-Week 1:
+## Week 1:
 
 Treatment effect estimation
 
@@ -217,7 +218,7 @@ T-Learner and S-Learner
 C-for-benefit
 
 
-Week 2:
+## Week 2:
 
 Information extraction from medical reports
 
@@ -232,7 +233,7 @@ Dependency parsing
 Question-Answering with BERT
 
 
-Week 3:
+## Week 3:
 
 Machine Learning Interpretation
 
