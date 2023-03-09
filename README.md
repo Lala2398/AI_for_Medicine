@@ -8,6 +8,8 @@ Preprocess images properly for the train, validation and test sets
 Implement a weighted loss function to address class imbalance.
 Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
+[![Certificate](https://img.shields.io/badge/Certificate-%23F7931E.svg?style=plastic&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/SCFWL98MCVWF)
+
 ## Week 1:
 
 Introduction: A conversation with Andrew Ng
