@@ -3,7 +3,9 @@ Here I am sharing all the notes of the most perfect Coursera course created by t
 
 
 # Course 1: AI For Medical Diagnosis - Learning Objectives : 
+
 [![Certificate](https://img.shields.io/badge/Certificate-%23F7931E.svg?style=plastic&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/SCFWL98MCVWF)
+
 Data pre-processing: checking for data leakage
 Preprocess images properly for the train, validation and test sets
 Implement a weighted loss function to address class imbalance.
