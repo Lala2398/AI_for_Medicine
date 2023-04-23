@@ -1,6 +1,7 @@
 # AI_for_Medicine 
 
 [![Certificate](https://img.shields.io/badge/Certificate-%23F7931E.svg?style=plastic&logo=Coursera&logoColor=white)](https://coursera.org/share/ce8683e38407eb882057c12061109556) 
+
 Here I am sharing all the notes of the most perfect Coursera course created by the combination of medicine and artificial intelligence :)
 
 
