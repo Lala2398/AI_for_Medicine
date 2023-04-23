@@ -93,6 +93,8 @@ Model influence on medical decision-making
 
 # Course 2: AI For Medical Prognosis
 
+[![Certificate](https://img.shields.io/badge/Certificate-%23F7931E.svg?style=plastic&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/XHDXRF28YVJL)
+
 
 ## Week 1:
 
