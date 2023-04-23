@@ -213,7 +213,7 @@ Harrell’s concordance index
 
 # Course 3: AI For Medical Treatment
 
-[![Certificate](https://img.shields.io/badge/Certificate-%23F7931E.svg?style=plastic&logo=Coursera&logoColor=white)](https://coursera.org/share/1279f5bf2b0ee8b2ed9498104d55c436)
+[![Certificate](https://img.shields.io/badge/Certificate-%23F7931E.svg?style=plastic&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BCQJU6TP39PU)
 
 ## Week 1:
 
